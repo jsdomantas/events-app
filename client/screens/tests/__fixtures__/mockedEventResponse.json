@@ -1,0 +1,13 @@
+{
+  "id": "1",
+  "type": "CONCERT",
+  "title": "The Weeknd",
+  "startingTime": "2021/05/21 09:10 PM",
+  "price": 17.60,
+  "image": "https://images.pexels.com/photos/1587927/pexels-photo-1587927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+  "description": "Non exercitation ullamco reprehenderit incididunt. Officia incididunt id exercitation velit aliqua ut deserunt do non. Aliquip sunt dolor enim occaecat ullamco id consectetur .",
+  "popular": true,
+  "featured": false,
+  "purchased": false,
+  "liked": false
+}
